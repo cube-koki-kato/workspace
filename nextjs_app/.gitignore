@@ -5,11 +5,6 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
-django-env/
-__pycache__/
-*.pyc
-.vscode/
-.DS_Store
 
 # testing
 /coverage
